@@ -1,4 +1,5 @@
-[![GitHub repo size (bytes)](https://img.shields.io/github/languages/code-size/skins-uk/skills-hello-github-actions)]([url-to-point-to](https://github.com/skins-uk/skills-hello-github-actions))
+[![GitHub repo size (bytes)](https://img.shields.io/github/languages/code-size/skins-uk/skills-hello-github-actions)](https://github.com/skins-uk/skills-hello-github-actions)
+[![GitHub License](https://img.shields.io/github/license/:user/:repo)](https://github.com/skins-uk/skills-hello-github-actions)
 
 <header>
 
