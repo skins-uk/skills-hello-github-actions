@@ -1,6 +1,6 @@
 [![GitHub repo size (bytes)](https://img.shields.io/github/languages/code-size/skins-uk/skills-hello-github-actions)](https://github.com/skins-uk/skills-hello-github-actions)
 [![GitHub License](https://img.shields.io/github/license/skins-uk/skills-hello-github-actions)](https://github.com/skins-uk/skills-hello-github-actions)
-
+[![GitHub forks](https://img.shields.io/github/forks/Skins-uk/skills-hello-github-actions)](https://github.com/skins-uk/skills-hello-github-actions)
 <header>
 
 # Hello GitHub Actions
